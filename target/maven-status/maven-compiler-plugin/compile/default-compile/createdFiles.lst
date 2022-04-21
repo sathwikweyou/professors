@@ -1,0 +1,5 @@
+professors\entity\ProfessorEntity.class
+professors\ProfessorsApplication.class
+professors\service\ProfessorService.class
+professors\repository\ProfessorRepository.class
+professors\controller\ProfessorController.class
